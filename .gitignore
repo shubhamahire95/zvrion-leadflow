@@ -1,0 +1,12 @@
+.venv/
+.cache/
+__pycache__/
+logs/
+output/
+exports/
+crm_exports/
+data/history.json
+*.csv
+*.xlsx
+*.json
+*.pyc

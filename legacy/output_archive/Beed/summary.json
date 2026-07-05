@@ -1,0 +1,17 @@
+{
+  "generated_on": "2026-07-02 20:57:31",
+  "accepted_hot_leads": 161,
+  "TOTAL_LISTINGS_FOUND": 280,
+  "LISTINGS_FOUND": 280,
+  "PHONE_FOUND": 161,
+  "PHONE_MISSING": 9,
+  "LEADS_SAVED": 161,
+  "LEADS_SKIPPED_NO_PHONE": 9,
+  "premium_leads": 85,
+  "rejected_leads": 51,
+  "duplicates_removed": 0,
+  "no_website": 161,
+  "website_rejected": 41,
+  "average_rating": 4.68,
+  "average_reviews": 1413.0
+}

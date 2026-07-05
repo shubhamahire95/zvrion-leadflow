@@ -1,0 +1,12 @@
+Generated on: 2026-06-19 10:06:34
+Accepted hot leads: 4
+Hot clients: 4
+TOTAL_LISTINGS_FOUND: 6
+PHONE_LEADS_SAVED: 4
+NO_PHONE_LEADS_SKIPPED: 2
+Premium leads: 4
+Rejected leads: 2
+No website: 4
+Website/social rejects: 2
+Average rating: 4.83
+Average reviews: 28.0

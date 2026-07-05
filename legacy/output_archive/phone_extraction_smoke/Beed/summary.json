@@ -1,0 +1,16 @@
+{
+  "generated_on": "2026-06-19 09:49:01",
+  "accepted_hot_leads": 4,
+  "TOTAL_LEADS": 5,
+  "LEADS_WITH_PHONE": 4,
+  "LEADS_WITHOUT_PHONE": 1,
+  "PHONE_COVERAGE_PERCENT": 80.0,
+  "PHONE_TARGET_PERCENT": 80,
+  "premium_leads": 4,
+  "rejected_leads": 3,
+  "duplicates_removed": 0,
+  "no_website": 4,
+  "website_rejected": 2,
+  "average_rating": 4.83,
+  "average_reviews": 28.0
+}

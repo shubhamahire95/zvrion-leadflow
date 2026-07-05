@@ -1,0 +1,14 @@
+Generated on: 2026-06-19 09:49:00
+Accepted hot leads: 2
+Hot clients: 2
+TOTAL_LEADS: 2
+LEADS_WITH_PHONE: 2
+LEADS_WITHOUT_PHONE: 0
+PHONE_COVERAGE_PERCENT: 100.0
+PHONE_TARGET_PERCENT: 80
+Premium leads: 2
+Rejected leads: 3
+No website: 2
+Website/social rejects: 3
+Average rating: 4.8
+Average reviews: 313.5

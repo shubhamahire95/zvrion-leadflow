@@ -1,0 +1,1 @@
+html,body,.app-shell,.main,.content,.page-section,.download-grid,.file-card,.file-meta,.page-head>*{min-width:0}.file-card{overflow:hidden}.file-card>a{flex:0 0 auto}.file-meta strong{display:block;max-width:100%}@media(max-width:680px){.download-grid{grid-template-columns:minmax(0,1fr)}}

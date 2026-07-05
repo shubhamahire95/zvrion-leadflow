@@ -1,0 +1,32 @@
+[
+  {
+    "business_name": "Hotel Yogi Veg",
+    "category": "Vegetarian restaurant",
+    "phone": "+919420185945",
+    "rating": "3.8",
+    "reviews": 0,
+    "address": "Narayan Wadi, Vidya Vihar Colony, Chopda, Maharashtra 425107",
+    "website": "",
+    "maps_link": "https://www.google.com/maps/place/Hotel+Yogi+Veg/data=!4m7!3m6!1s0x3bd8dfadfb689d2f:0x29d18a2fde7cd565!8m2!3d21.2389165!4d75.2973435!16s%2Fg%2F11dyzc2ty9!19sChIJL51o-63f2DsRZdV83i-K0Sk?authuser=0",
+    "city": "Chopda",
+    "taluka": "Yawal",
+    "district": "Jalgaon",
+    "state": "Maharashtra",
+    "rejection_reason": "rating_below_minimum"
+  },
+  {
+    "business_name": "Hotel Nana Biryani Chopda",
+    "category": "Restaurant",
+    "phone": "+919970169120",
+    "rating": "3.4",
+    "reviews": 0,
+    "address": "Shop No.1, Lohana Patrol Pumb, near Lohana Patrol, Vidya Vihar Colony, Chopda, Maharashtra 425107",
+    "website": "",
+    "maps_link": "https://www.google.com/maps/place/Hotel+Nana+Biryani+Chopda/data=!4m7!3m6!1s0x3bd8dfde25ddc74b:0x149daf82543f29a7!8m2!3d21.2401964!4d75.2937598!16s%2Fg%2F11sb3fqwj2!19sChIJS8fdJd7f2DsRpyk_VIKvnRQ?authuser=0",
+    "city": "Chopda",
+    "taluka": "Yawal",
+    "district": "Jalgaon",
+    "state": "Maharashtra",
+    "rejection_reason": "rating_below_minimum"
+  }
+]

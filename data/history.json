@@ -1,0 +1,42 @@
+[
+  {
+    "id": "996db938ce224e2ba2fda17a5b3397fe",
+    "date_time": "2026-07-05T14:34:30+05:30",
+    "niche": "cafes",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "taluka": "Yawal",
+    "city": "Chopda",
+    "min_rating": 4.0,
+    "max_results": 50,
+    "phone_required": false,
+    "no_website_only": false,
+    "total_raw": 50,
+    "total_clean": 48,
+    "csv_file": "zvrion_leads_cafes_chopda_20260705_143430.csv",
+    "xlsx_file": "zvrion_leads_cafes_chopda_20260705_143430.xlsx",
+    "json_file": "",
+    "status": "completed",
+    "error": null
+  },
+  {
+    "id": "bf3708e6df7d4be4b55bfb6f95479661",
+    "date_time": "2026-07-05T14:05:45+05:30",
+    "niche": "clasess",
+    "state": "Maharashtra",
+    "district": "Akola",
+    "taluka": "Akola",
+    "city": "Akola",
+    "min_rating": 4.0,
+    "max_results": 50,
+    "phone_required": true,
+    "no_website_only": true,
+    "total_raw": 50,
+    "total_clean": 0,
+    "csv_file": "zvrion_leads_clasess_akola_20260705_140545.csv",
+    "xlsx_file": "zvrion_leads_clasess_akola_20260705_140545.xlsx",
+    "json_file": "",
+    "status": "completed",
+    "error": null
+  }
+]
